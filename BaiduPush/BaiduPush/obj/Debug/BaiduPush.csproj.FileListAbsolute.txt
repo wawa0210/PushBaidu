@@ -1,0 +1,6 @@
+D:\project\PushBaidu\BaiduPush\BaiduPush\bin\BaiduPush.dll.config
+D:\project\PushBaidu\BaiduPush\BaiduPush\bin\BaiduPush.dll
+D:\project\PushBaidu\BaiduPush\BaiduPush\bin\BaiduPush.pdb
+D:\project\PushBaidu\BaiduPush\BaiduPush\obj\Debug\BaiduPush.dll
+D:\project\PushBaidu\BaiduPush\BaiduPush\obj\Debug\BaiduPush.pdb
+D:\project\PushBaidu\BaiduPush\BaiduPush\obj\Debug\BaiduPush.csprojResolveAssemblyReference.cache
